@@ -1,0 +1,9 @@
+{
+  "name": "Rudra AI System Interface",
+  "description": "An advanced Agentic AI voice assistant (Rudra) with a sci-fi holographic HUD interface, capable of simulated system administration tasks via Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
